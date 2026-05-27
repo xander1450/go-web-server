@@ -4,7 +4,7 @@ A simple web server written in Go that serves static files and handles basic for
 
 ## Architecture
 
-The server routes incoming requests as follows:
+The server routes incoming requests as follows::
 
 ```mermaid
 graph LR
